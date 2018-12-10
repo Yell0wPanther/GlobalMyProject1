@@ -12,4 +12,4 @@ cout << MyDiv(10, 3) << endl;
 cout << MyPow(10.5, 3.7) << endl;
 system("pause");
 return 0;
-}
+}
